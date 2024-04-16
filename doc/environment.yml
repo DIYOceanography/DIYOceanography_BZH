@@ -1,0 +1,24 @@
+name: diyocean
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - xarray
+  - numpydoc
+  - sphinx
+  - ipython
+  - jupyter
+  - matplotlib
+  - pandoc
+  - pip
+  - pip:
+    - docrep
+    - nbsphinx
+    - sphinxcontrib-apidoc
+    - sphinx-book-theme
+    #- pangeo-sphinx-book-theme
+    - sphinx-copybutton
+    - sphinxcontrib-srclinks
+    - sphinx-panels
+    - myst-nb
