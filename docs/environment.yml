@@ -4,13 +4,13 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - xarray
+  #- xarray
   - numpydoc
   - sphinx
-  - ipython
-  - jupyter
-  - matplotlib
-  - pandoc
+  #- ipython
+  #- jupyter
+  #- matplotlib
+  #- pandoc
   - pip
   - pip:
     - docrep

@@ -2,7 +2,7 @@
    from pynsitu doc on 16/04/2024
 
 
-pynsitu: Oceanographic In Situ Data analysis
+DIY Oceanography BZH: ...
 ==============================================
 
 **pynsitu** is a Python package for the analysis of in situ oceanographic
@@ -23,7 +23,7 @@ Documentation
    :maxdepth: 1
    :caption: Getting Started
 
-   why-pynsitu
+   why-DIY-Oceanography-BZH
    installation
    contributor_guide
 
