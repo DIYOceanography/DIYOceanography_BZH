@@ -16,6 +16,15 @@ build:
     # rust: "1.64"
     # golang: "1.19"
 
+conda:
+    environment: docs/environment.yml
+
+#python:
+#  # Install our python package before building the docs
+#  install:
+#    - method: pip
+#      path: .
+
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
   configuration: docs/conf.py
@@ -32,11 +41,3 @@ sphinx:
 #    install:
 #    - requirements: docs/requirements.txt
 
-conda:
-    environment: doc/environment.yml
-
-python:
-  # Install our python package before building the docs
-  install:
-    - method: pip
-      path: .
