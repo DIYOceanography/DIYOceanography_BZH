@@ -1,0 +1,41 @@
+*.swp
+*.egg-info/
+.DS_Store
+*.egg
+
+# Byte-compiled / optimized / DLL files
+build/
+__pycache__/
+*.py[cod]
+*.so
+
+# eclipse related files
+.project
+.pydevproject
+.settings/
+
+# pycharm files
+.idea/
+
+# data files
+#*.nc
+#*.bag
+
+# fig and movies
+#*.png
+#!floatdyn/float_displacement.png
+#*.jpg
+#*.eps
+#*.pdf
+#*.mp4
+#*.wav
+#*.p
+
+# openoffice
+*.odp#
+
+# jupyter
+.ipynb*
+
+# logins
+*.login

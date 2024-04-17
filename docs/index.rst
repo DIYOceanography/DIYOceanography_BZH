@@ -30,6 +30,7 @@ Documentation
    :caption: Sensor database
 
    conductivity
+   fluorescence
 
 .. _pandas: https://pandas.pydata.org
 .. _xarray: http://xarray.pydata.org
