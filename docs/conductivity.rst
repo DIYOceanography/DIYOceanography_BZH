@@ -7,7 +7,9 @@ Sensing principles
 ------------------
 
 blabla with links, for instance: xarray_ and pandas_.
+
 May need to embed images from pdf if not pdf directly (seems difficult on first pass, maybe via jupyter notebook see `post <https://stackoverflow.com/questions/19470099/view-pdf-image-in-an-ipython-notebook>`_)
+One way to embed pdf may be just with a link on a `local file <test.pdf>`_
 
 Sensor database
 ---------------
