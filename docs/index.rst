@@ -5,9 +5,7 @@
 DIY Oceanography BZH: ...
 ==============================================
 
-**pynsitu** is a Python package for the analysis of in situ oceanographic
-data based on pandas_ and xarray_ objects.
-
+**DIY Oceanography BZH** gathers resources ... 
 
 .. note::
 
@@ -21,19 +19,17 @@ Documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Getting Started
+   :caption: Getting started
 
    why-DIY-Oceanography-BZH
-   installation
    contributor_guide
+   whats-new
 
 .. toctree::
    :maxdepth: 1
-   :caption: Help & reference
+   :caption: Sensor database
 
-   whats-new
-..
-   api
+   conductivity
 
 .. _pandas: https://pandas.pydata.org
 .. _xarray: http://xarray.pydata.org

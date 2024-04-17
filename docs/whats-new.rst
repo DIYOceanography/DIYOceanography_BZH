@@ -1,17 +1,17 @@
-.. currentmodule:: xrft
+.. currentmodule:: diyoceanobzh
 
 What's New
 ==========
 
 .. _whats-new.0.0.0:
 
-v0.0.0 (XX January 2022)
+v0.0.0 (XX May 2024)
 ----------------------
 
-Enhancements (to be updated)
-~~~~~~~~~~~~
+Initial setup
+~~~~~~~~~~~~~
 
-- Allowed ``dft`` and ``power_spectrum`` functions to support real Fourier transforms. (:issue:`57`)
+- ... ``dft`` and ``power_spectrum`` functions to support real Fourier transforms. (:issue:`57`)
   By `Takaya Uchida <https://github.com/roxyboy>`_ and
   `Tom Nicholas <https://github.com/TomNicholas>`_.
 
