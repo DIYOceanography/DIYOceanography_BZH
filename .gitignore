@@ -4,6 +4,7 @@
 *.egg
 
 # Byte-compiled / optimized / DLL files
+docs/_build
 build/
 __pycache__/
 *.py[cod]

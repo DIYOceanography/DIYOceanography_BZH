@@ -2,6 +2,6 @@
 
 # DIY Oceanography BZH
 
-...
+*... (brief description) ...*
 
 See [documention](https://diy-oceanography-bzh.readthedocs.io/en/latest/)

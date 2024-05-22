@@ -1,7 +1,9 @@
 .. _installation-label:
 
-Conductivity
+conductivity
 ============
+
+This is a template with rst format.
 
 Sensing principles
 ------------------

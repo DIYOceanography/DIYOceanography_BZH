@@ -5,21 +5,14 @@
 DIY Oceanography BZH: ...
 ==============================================
 
-**DIY Oceanography BZH** gathers resources ... 
-
-.. note::
-
-    some note about current status:
-    This package is at early stage of development and will keep improving in the future.
-    If you find any bugs or would like to request any enhancements,
-    please `raise an issue on GitHub <https://github.com/apatlpo/pynsitu/issues>`_.
+**DIY Oceanography BZH** gathers resources *...to complete...*, see more :doc:`the more detailed description of our motivation and objectives <why-DIY-Oceanography-BZH>`.
 
 Documentation
 -------------
 
 .. toctree::
    :maxdepth: 1
-   :caption: Getting started
+   :caption: General information
 
    why-DIY-Oceanography-BZH
    contributor_guide
@@ -27,7 +20,7 @@ Documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Sensor database
+   :caption: Variables & sensors
 
    conductivity
    fluorescence
