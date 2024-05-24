@@ -1,7 +1,7 @@
 .. _installation-label:
 
-conductivity
-============
+dummy
+=====
 
 This is a template with rst format.
 

@@ -22,8 +22,9 @@ Documentation
    :maxdepth: 1
    :caption: Variables & sensors
 
-   conductivity
-   fluorescence
+   fluorescence/fluorescence
+   conductivity/conductivity
+   dummy
 
 .. _pandas: https://pandas.pydata.org
 .. _xarray: http://xarray.pydata.org
