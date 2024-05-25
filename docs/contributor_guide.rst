@@ -26,8 +26,8 @@ Activate the environment with::
 
     conda activate diyocean
 
-Comppiling the documentation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Compiling the documentation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To compile The tests can then be run directly inside your Git clone (without having to install pynsitu) by typing::
 
