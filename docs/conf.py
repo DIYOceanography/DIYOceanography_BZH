@@ -41,7 +41,7 @@ extensions = [
     "sphinx.ext.extlinks",
     "sphinx.ext.viewcode",
     "sphinx.ext.intersphinx",
-    "sphinxcontrib.apidoc",
+    #"sphinxcontrib.apidoc",
     "sphinx_copybutton",
     "sphinx_panels",
     "numpydoc",

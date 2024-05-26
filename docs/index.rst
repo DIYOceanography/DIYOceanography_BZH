@@ -22,8 +22,9 @@ Documentation
    :maxdepth: 1
    :caption: Variables & sensors
 
-   fluorescence/fluorescence
+   temperature/temperature
    conductivity/conductivity
+   fluorescence/fluorescence
    dummy
 
 .. _pandas: https://pandas.pydata.org
