@@ -2,13 +2,13 @@
    from pynsitu doc on 16/04/2024
 
 
-DIY Oceanography BZH: ...
-==============================================
+DIY Oceanography BZH
+====================
 
 **DIY Oceanography BZH** gathers resources *...to complete...*, see more :doc:`the more detailed description of our motivation and objectives <why-DIY-Oceanography-BZH>`.
 
-Documentation
--------------
+.. General
+.. --------
 
 .. toctree::
    :maxdepth: 1
@@ -18,6 +18,9 @@ Documentation
    contributor_guide
    whats-new
 
+.. Variables & sensors
+.. -------------------
+
 .. toctree::
    :maxdepth: 1
    :caption: Variables & sensors
@@ -26,6 +29,3 @@ Documentation
    conductivity/conductivity
    fluorescence/fluorescence
    dummy
-
-.. _pandas: https://pandas.pydata.org
-.. _xarray: http://xarray.pydata.org

@@ -69,7 +69,8 @@ source_suffix = [".rst", ".md"]
 master_doc = "index"
 
 # General information about the project.
-project = "diyoceanbzh"
+#project = "diyoceanbzh"
+project = "DIY Oceanography BZH"
 copyright = "2024, DIY Oceanography BZH team"
 author = "DIY Oceanography BZH team"
 
