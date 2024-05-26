@@ -1,3 +1,20 @@
-Capteur , EOV/EBV , Materiel Principal, link
-SmartFluo, Chlorophylle A, Smartphone, https://www.mdpi.com/1424-8220/17/4/678
-Other, Chlorophylle A, Smartphone, https://www.mdpi.com/1424-8220/13/6/7872
+sensor name,technology,"absolute 
+accuracy","relative
+accuracy",stability,niveau de validation,"lien document 
+de validation","intégration
+mécanique","intégration électronique 
+interface de communication",coût,"lien 
+doc technique","lien 
+fournisseur"
+"Conductivité CTD Seabird SBE19+, hydrocat",conductivité électrique,,,,,,,,,,
+Conductivité CTD NKE Wisens ,,,,,,,,,,,
+Conductivité CTD Anderaa,,,,,,,,,,,
+Conductivité CTD Valeport,,,,,,,,,,,
+Conductivité CTD RBR,,,,,,,,,,,
+Conductivité CTD Castaway Sontek,,,,,,,,,,,
+Conductivité CTD YSI,,,,,,,,,,,
+Conductivité Atlas scientifique,,,,,ne remplit pas les critères de spécification,,,,,,
+Conductivité Decagon (inconnu),"OS, tétrapolaire",,,,,,,,,,
+Conductivité Seeed Studio (inconnu),OS,,,,,,,,,,
+Conductivité DFRobot (inconnu),OS,,,,,,,,,,
+Conductivité CTD AML,,,,,,,,,,,
