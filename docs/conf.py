@@ -196,6 +196,21 @@ texinfo_documents = [
     ),
 ]
 
+
+# from scipy/doc/source/conf.py
+# Prevent creation of transition syntax when adding footnotes
+# See https://github.com/executablebooks/MyST-Parser/issues/352
+myst_footnote_transition = False
+myst_enable_extensions = [
+    "colon_fence",
+    "dollarmath",
+    "substitution",
+    "amsmath",
+    "html_image",
+]
+nb_render_markdown_format = "myst"
+render_markdown_format = "myst"
+
 # Example configuration for intersphinx: refer to the Python standard library.
 # intersphinx_mapping = {
 #     'python': ('https://docs.python.org/3/', None),

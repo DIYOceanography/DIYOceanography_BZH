@@ -1,0 +1,21 @@
+"Notice:
+to do 
+... general information about this type of sensors: technologies available, units",,,,,,,,,,,,,,,
+sensor name,technology,"absolute 
+accuracy",Range,"relative
+accuracy",Response time,"max sampling
+ frequency",stability,validation level,"link to 
+validation document","mecanical
+integration",maximum depth,"electronical integration 
+communication interface",cost,"lnk 
+doc technique","supplying
+company"
+Hobo Onset temperature ,,,,,,,,,170 (2023),,,Prosensor,,,
+Waterproof DS18B20 Digital Temperature Sensor for Arduino,,"0,5°C",-10 -> 85°C,,,,,,7,,,https://www.dfrobot.com/product-689.html,,,
+PT-1000 Temperature Kit #KIT-301 Atlas Scientific,,,,,,,,,30,,,https://atlas-scientific.com/kits/surveyor-rtd-analog-kit/,,,
+Aginova Sentinel Micro (ASM),Thermistance,,,,,,,,,,,,,,
+"Measurement Specialties (ex-betatherm, désormais filiale de TE connectivity)",Fabricant de capteurs PRT/ Thermistances,Selon spécifications,,,,,,,,,,,,,
+Fluke 5640/5641/5642,Thermistance,0.001°C avec électronique (chère) vendue par Fluke.,0-> 60°C,,,,,,,"dans chemise inox 316, mais avec fils (pas forcément évident à intégrer sur un caisson étanche).",,,Demande de devis envoyée,https://eu.flukecal.com/products/temperature-calibration/probes-sensors/thermistors/5640-series-thermistor-standards-probes?quicktabs_product_details=1,
+Blue Robotics temperature sensor,Digital Temperature Sensor,"± 0.1°C (between -5 to 50°C)
+± 0.5°C (between -40 to 125°C)",-40 to +125°C,,"1s - 0.5 m/s flow
+2s - still water",,,,,"O-ring, M-10 threaded",1000m,I2C,70$,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FTSYS01%7FA%7Fpdf%7FEnglish%7FENG_DS_TSYS01_A.pdf%7FG-NICO-018,Blue Robotics

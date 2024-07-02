@@ -28,4 +28,5 @@ DIY Oceanography BZH
    temperature/temperature
    conductivity/conductivity
    fluorescence/fluorescence
+   turbidity/turbidity
    dummy
