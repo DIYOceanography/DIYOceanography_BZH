@@ -1,25 +1,28 @@
 Why DIY Oceanography BZH?
 =========================
 
-Motivation
-----------
+Motivation and Context
+----------------------
 
 Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [BUT2021]_ [MAR2021]_.
 Our objective is too centralize knowledge and material that may foster the development these projects.
 
-Our effort has been so far conducted from Brest (France) with members principally from the academic *... to develop*
-
+Our effort has been so far conducted from Brest (France) with members principally from the academic and public societies.
+The project relies on voluntary contributions.
+Do not hesite to provide feedback about our approach (see related :doc:`guide <contributor_guide>`) !
 
 Scope
 -----
 
 The ongoing effort of our working group focuses on sensors_, the movitation being that they consitute the cornerstone for all instruments.
-Taking one variable of interest at a time, we wish to gather useful information related to sensing physics *... to develop*
+We are therefore intentionnaly not adressing at the moment data logging, physical containering and mechanical design of the hosting platform.
 
-.. xrft can track the metadata in ``xarray.DataArray`` (:doc:`example <./MITgcm_example>`),
-.. which makes it easy for large data sets.
-.. The choice of Python and Anaconda also makes xrft :ref:`extremely easy to install <installation-label>`.
+Taking one variable of interest at a time, we wish first to:
 
+#. gather information related to sensing physics that is ideally quantitative and referenced.
+#. assemble a list of either commercially available sensors or open projects.
+
+The purpose is to empower people with the necessary information to select the most adequate sensor for their DIY instrumental projects.
 
 References
 ----------
