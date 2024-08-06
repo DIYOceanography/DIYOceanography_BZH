@@ -31,3 +31,4 @@ We are very much open to feedbacks and contributions, please refer to :doc:`asso
    conductivity/conductivity
    fluorescence/fluorescence
    turbidity/turbidity
+   currents/currents
