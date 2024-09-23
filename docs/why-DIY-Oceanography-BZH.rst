@@ -24,6 +24,10 @@ Taking one variable of interest at a time, we wish first to:
 
 The purpose is to empower people with the necessary information to select the most adequate sensor for their DIY instrumental projects.
 
+The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,  :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`turbidity <turbidity/turbidity>`, :doc:`ocean currents <currents/currents>`.
+
+The list of variables we wish to cover eventually is : oxygen, pH, passive accoustics, sea level, surface positionning, underwater positionning. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
+
 References
 ----------
 
