@@ -1,0 +1,42 @@
+"Notice:
+to do 
+... general information about this type of sensors: technologies available, units",,,,,,,,,,,,,,,
+sensor name,technology,"absolute 
+accuracy",Range,"relative
+accuracy",Response time,"max sampling
+ frequency",stability,validation level,"link to 
+validation document","mecanical
+integration",maximum depth,"electronical integration 
+communication interface",cost,Datasheet link,"supplying
+company"
+"ECO NTU
+ECO BB",Optical back-scattering,NC,"250;500;1000 NTU
+5 /m",NC,NC,8 Hz,NC,NC,NC,"Diameter : 6.3 cm
+Length : 12.7 cm (std) ; 17.68 cm (deep)
+Materials : Acetal copolymer (std) ; Titanium (deep)","300 m (models B, S and SB)
+600m (std)
+6000m (deep)","Analog signal : 0-5 V
+DAQ : 14 bits (16380 counts)
+Connector : MCBH6MP
+Communication : RS-232 (19200 baud)","11 000 € (Feb., 2024)","ECO NTU Turbidity Sensor
+ECO Scattering Sensor",SeaBird Scientific
+STM-S,Optical back-scattering,NC,25;125;500;4000 FTU,NC,0.1 s,NC,NC,NC,NC,"Diameter : 25.4 mm
+Length : 66.5 mm (connector version) ; 56.4 mm (bulkhead version)
+Material : rigid polyurethane, epoxy",6000 m,"Output : 0-5 V
+Connectors : AG306, MCBH6M, bulkhead","2 340 $ (Sep., 2024)",Seapoint Turbidity Meter,"Seapoint Sensors, inc."
+ClariVUE10,Optical side-scattering,0.5 FNU,4000 FNU,±2%,9 s,NC,NC,NC,NC,"Diameter : 30.1 mm
+Length : 166 mm
+Material : Delrin plastic",30 m,"Connector : Bronze 3-pin wet-mate
+Communication : SDI-12",NC,ClariVUE10 Product Brochures,Campbell Scientific
+WiSens TBD,Optical back-scattering,0.4 FNU,4000 FNU,"0,5 %",NC,1 Hz,NC,NC,NC,"Diameter : 45 mm
+Length : 220 mm",300m,Communication : WiFi,"5 100 € (Dec., 2019)
++ wiper : 2 600 € (Dec., 2019)",WiSens TBD Datasheet,NKE Instrumentation
+Turbidity Plus,Optical back-scattering,"0 – 10 NTU (+/- 0.1 NTU)
+10 – 1000 NTU (+/- 0.4 NTU)",3000 NTU,> 1000 NTU (+/- 0.04% of NTU),< 3 s,NC,NC,NC,NC,"Diameter : 3.01 cm
+Length : 15.49 cm
+Material : Delrin",200 m,Signal output : 0-5 V,"1 327 € (Apr., 2019)",Turbidity Plus Product Datasheet,Turner Designs
+SEN0189,Optical transmissiometry,NC,NC,NC,< 500 ms,NC,NC,NC,NC,"Diameter : 27.8 mm
+Length : 34.1 mm
+Material : PP",NO waterproof,"Analog output : 0-4.5 V
+Digital output
+Connector : molex",nearly 10 €,SEN0189 Datasheet,DF ROBOT
