@@ -1,7 +1,11 @@
 .. _contributor_guide:
 
-Feedback Guide
---------------
+Feedback & contributor Guides
+=============================
+
+Providing feedbacks
+-------------------
+
 **DIY Oceanography BZH** is meant to be a community platform and we welcome feedback and
 contributions.
 
@@ -9,8 +13,8 @@ Did you notice missing or erroneous information? A good first starting place is 
 open an issue in the `github issues page <https://github.com/DIYOceanography/DIYOceanography_BZH/issues>`_.
 Alternatively, you may post to the `group mailing list`_.
 
-Contributor Guide
------------------
+Contributing
+------------
 
 In order to contribute to DIY Oceanography BZH, please fork the repository and submit a pull request.
 A good step by step tutorial for this can be found in the
