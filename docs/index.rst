@@ -29,6 +29,7 @@ We are very much open to feedbacks and contributions, please refer to :doc:`asso
 
    temperature/temperature
    conductivity/conductivity
+   oxygen/oxygen
    fluorescence/fluorescence
    turbidity/turbidity
    currents/currents
