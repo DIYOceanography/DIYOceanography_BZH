@@ -1,15 +1,17 @@
 name: diyocean
 channels:
   - conda-forge
-  - defaults
+  #- defaults
 dependencies:
-  - python=3.10
-  #- xarray
+  - python=3.11
+  - xarray
+  - pandas
+  - gsw
   - numpydoc
   - sphinx
   #- ipython
-  #- jupyter
-  #- matplotlib
+  - jupyter
+  - matplotlib
   #- pandoc
   - pip
   - pip:
