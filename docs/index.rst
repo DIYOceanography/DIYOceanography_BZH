@@ -33,3 +33,4 @@ We are very much open to feedbacks and contributions, please refer to :doc:`asso
    fluorescence/fluorescence
    turbidity/turbidity
    currents/currents
+   Geopositioning/geopositioning

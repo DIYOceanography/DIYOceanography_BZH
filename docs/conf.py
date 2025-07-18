@@ -40,7 +40,7 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx.ext.extlinks",
     "sphinx.ext.viewcode",
-    "sphinx.ext.intersphinx",
+    "sphinx.ext.intersphinx", 
     #"sphinxcontrib.apidoc",
     "sphinx_copybutton",
     "sphinx_panels",
