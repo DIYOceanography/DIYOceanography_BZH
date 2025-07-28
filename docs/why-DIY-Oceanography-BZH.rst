@@ -22,6 +22,13 @@ Taking one variable of interest at a time, we wish first to:
 #. gather information related to sensing physics that is ideally quantitative and referenced.
 #. assemble a list of either commercially available sensors or open projects.
 
+For each sensor type, we present:
+- The general physical measurement principle
+- The measurement process  
+- Different sensor types for the same technology
+- Advantages and limitations
+- Associated references
+
 The purpose is to empower people with the necessary information to select the most adequate sensor for their DIY instrumental projects.
 
 The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,  :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`turbidity <turbidity/turbidity>`, :doc:`ocean currents <currents/currents>`.
