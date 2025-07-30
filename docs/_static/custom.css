@@ -1,0 +1,33 @@
+/* Hide right sidebar completely */
+.bd-sidebar-secondary {
+    display: none !important;
+}
+
+/* Override ALL width constraints */
+* {
+    max-width: none !important;
+}
+
+/* Specific overrides for main layout */
+.bd-page,
+.bd-main,
+.bd-content,
+.bd-article-container,
+.bd-article {
+    width: 100% !important;
+    max-width: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* Force the main content area to expand */
+.bd-main {
+    flex: 1 1 auto !important;
+    width: calc(100% - 250px) !important; /* Assuming left sidebar is ~250px */
+}
+
+/* Table specific */
+.diy-table {
+    width: 100% !important;
+    min-width: 100% !important;
+}

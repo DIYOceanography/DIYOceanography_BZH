@@ -24,3 +24,5 @@ dependencies:
     - sphinxcontrib-srclinks
     - sphinx-panels
     - myst-nb
+    - jupyter-sphinx
+    
