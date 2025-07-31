@@ -1,33 +1,66 @@
-/* Hide right sidebar completely */
-.bd-sidebar-secondary {
-    display: none !important;
+/* Toggle button for right sidebar */
+.sidebar-toggle-js {
+    position: fixed;
+    top: 50%;
+    right: 10px;
+    z-index: 1000;
+    background: #667eea;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
 }
 
-/* Override ALL width constraints */
-* {
+.sidebar-toggle-js:hover {
+    background: #5a67d8;
+    transform: scale(1.1);
+}
+
+/* Hide RIGHT sidebar (table of contents) by default */
+.bd-sidebar-secondary {
+    display: none !important;
+    transition: all 0.3s ease;
+}
+
+/* Show RIGHT sidebar when toggled */
+.show-right-sidebar .bd-sidebar-secondary {
+    display: block !important;
+}
+
+/* Keep LEFT sidebar always visible */
+.bd-sidebar-primary {
+    display: block !important;
+}
+
+/* Adjust main content when RIGHT sidebar is shown */
+.show-right-sidebar .bd-main {
+    width: calc(100% - 300px) !important; /* Account for right sidebar */
     max-width: none !important;
 }
 
-/* Specific overrides for main layout */
-.bd-page,
-.bd-main,
+/* When RIGHT sidebar is hidden, expand main content */
+.bd-main {
+    width: 100% !important;
+    max-width: none !important;
+}
+
+/* Override ALL width constraints when sidebar is hidden */
 .bd-content,
 .bd-article-container,
 .bd-article {
     width: 100% !important;
     max-width: none !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
 }
 
-/* Force the main content area to expand */
-.bd-main {
-    flex: 1 1 auto !important;
-    width: calc(100% - 250px) !important; /* Assuming left sidebar is ~250px */
-}
-
-/* Table specific */
-.diy-table {
-    width: 100% !important;
-    min-width: 100% !important;
+/* When RIGHT sidebar is shown, adjust content width */
+.show-right-sidebar .bd-content,
+.show-right-sidebar .bd-article-container,
+.show-right-sidebar .bd-article {
+    width: calc(100% - 250px) !important;
+    max-width: none !important;
 }
