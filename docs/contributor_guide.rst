@@ -13,6 +13,27 @@ Did you notice missing or erroneous information? A good first starting place is 
 open an issue in the `github issues page <https://github.com/DIYOceanography/DIYOceanography_BZH/issues>`_.
 Alternatively, you may post to the `group mailing list`_.
 
+Current need for contributions :
+---------------------------------
+We are currently looking for contributions in the following areas:
+
+- **General metrology**: We are looking for contributions to the general metrology section, including a dictionnary of  of terms, definitions, and explanations of concepts related to metrology.
+
+- **Guide to beginners in electronic**: We are looking for contributions to the guide to beginners in electronics, including explanations of basic concepts, components, and circuits.
+
+- **Temperature section**: We are looking for contributions to the temperature section, including thermography and optical sensing. 
+
+- **Containerization section**: We are looking for contributions to the containerization section, including explanations on difficulties and not to, in order to create and use containers for DIY oceanographic instrumentation.
+
+- **Current DIY instruments**: We are looking for contributions to the current DIY instruments section, including translation and link to online document.
+
+- **DIY instruments**: We are looking for contributions to the DIY instruments section, including new instruments, improvements to existing instruments, and additional information on how to build and use them.
+
+- **Testing and validation**: We are looking for contributions to the testing and validation of DIY instruments, including test cases, validation procedures, and comparisons with commercial instruments.
+
+- **Zotero library**: We are looking for contributions to the Zotero library, including creation, new references, annotations, and organization of the library. 
+
+
 Contributing
 ------------
 
