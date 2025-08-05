@@ -7,7 +7,7 @@ DIY Oceanography BZH
 
 **DIY Oceanography BZH** gathers useful resources for the development of open Do-It-Yourself oceanographic instrumentation, see more :doc:`the more detailed description of our motivation and objectives <why-DIY-Oceanography-BZH>`.
 
-We are very much open to feedbacks and contributions, please refer to :doc:`associated guides <contributor_guide>`.
+We are very much open to feedbacks and contributions, please refer to :doc:`contributions guides <contributor_guide>`.
 
 .. General
 .. --------

@@ -37,7 +37,7 @@ We are currently looking for contributions in the following areas:
 - **Zotero library**: We are looking for contributions to the Zotero library, including creation, new references, annotations, and organization of the library. 
 
 The list of variables we wish to cover eventually is : 
- - antifouling
+ - fouling
  - oxygen
  - pH 
  - passive accoustics

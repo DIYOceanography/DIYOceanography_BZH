@@ -32,7 +32,7 @@ The purpose is to empower people with the necessary information to select the mo
 
 The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,  :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`turbidity <turbidity/turbidity>`, :doc:`ocean currents <currents/currents>`.
 
-We are currently looking for :doc:`contributions`<contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
+We are currently looking for :doc:`contributions <contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
 References
 ----------
