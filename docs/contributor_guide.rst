@@ -15,7 +15,10 @@ Alternatively, you may post to the `group mailing list`_.
 
 Current need for contributions :
 ---------------------------------
+
 We are currently looking for contributions in the following areas:
+
+- **Variables & sensors sections**: Transform the current slides into text for : turbidity, oxygen, fluorescence, currents and geopositioning.
 
 - **General metrology**: We are looking for contributions to the general metrology section, including a dictionnary of  of terms, definitions, and explanations of concepts related to metrology.
 
@@ -33,6 +36,16 @@ We are currently looking for contributions in the following areas:
 
 - **Zotero library**: We are looking for contributions to the Zotero library, including creation, new references, annotations, and organization of the library. 
 
+The list of variables we wish to cover eventually is : 
+ - antifouling
+ - oxygen
+ - pH 
+ - passive accoustics
+ - sea level 
+ - surface positionning
+ - underwater positionning. 
+
+Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
 Contributing
 ------------

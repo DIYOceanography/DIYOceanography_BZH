@@ -23,8 +23,7 @@ Taking one variable of interest at a time, we wish first to:
 #. assemble a list of either commercially available sensors or open projects.
 
 For each sensor type, we present:
-- The general physical measurement principle
-- The measurement process  
+- The general physical measurement principle  
 - Different sensor types for the same technology
 - Advantages and limitations
 - Associated references
@@ -33,7 +32,7 @@ The purpose is to empower people with the necessary information to select the mo
 
 The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,  :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`turbidity <turbidity/turbidity>`, :doc:`ocean currents <currents/currents>`.
 
-The list of variables we wish to cover eventually is : oxygen, pH, passive accoustics, sea level, surface positionning, underwater positionning. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
+We are currently looking for :doc:`contributions`<contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
 References
 ----------
