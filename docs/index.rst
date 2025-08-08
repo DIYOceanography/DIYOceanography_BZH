@@ -1,7 +1,6 @@
 .. diyoceanbzh documentation master file, created
    from pynsitu doc on 16/04/2024
 
-
 DIY Oceanography BZH
 ====================
 
@@ -43,3 +42,9 @@ We are very much open to feedbacks and contributions, please refer to :doc:`cont
    :caption: DIY instruments
 
    diy_instru/diy_instru
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Bibliography
+   
+   bibliographie/bibliographie

@@ -1,0 +1,200 @@
+/* Styles pour le visualiseur de bibliothèque Zotero */
+
+.zotero-header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.zotero-controls {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.zotero-search-bar {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #e0e0e0;
+    border-radius: 6px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    transition: border-color 0.3s;
+    box-sizing: border-box;
+}
+
+.zotero-search-bar:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+.zotero-filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.zotero-filters select {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.zotero-stats {
+    text-align: center;
+    margin: 15px 0;
+    color: #666;
+    font-size: 14px;
+}
+
+.zotero-loading {
+    text-align: center;
+    padding: 40px;
+    color: #667eea;
+    font-size: 18px;
+}
+
+.zotero-error {
+    background: #fee;
+    border: 1px solid #fcc;
+    padding: 15px;
+    border-radius: 6px;
+    color: #c33;
+    margin: 20px 0;
+}
+
+.zotero-bibliography {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.zotero-reference {
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+    transition: background-color 0.2s;
+}
+
+.zotero-reference:hover {
+    background-color: #f8f9fa;
+}
+
+.zotero-reference:last-child {
+    border-bottom: none;
+}
+
+.zotero-reference-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.zotero-reference-authors {
+    color: #667eea;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+.zotero-reference-details {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.zotero-reference-abstract {
+    color: #555;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+    padding: 12px;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    border-left: 3px solid #667eea;
+}
+
+.zotero-item-type-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    background-color: #e9ecef;
+    color: #495057;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 12px;
+    margin-right: 8px;
+}
+
+.zotero-tags {
+    margin-top: 8px;
+}
+
+.zotero-tag {
+    display: inline-block;
+    background-color: #667eea;
+    color: white;
+    padding: 2px 8px;
+    font-size: 11px;
+    border-radius: 10px;
+    margin: 2px 4px 2px 0;
+}
+
+.zotero-no-results {
+    text-align: center;
+    padding: 40px;
+    color: #666;
+    font-style: italic;
+}
+
+.zotero-link {
+    display: inline-block;
+    margin-top: 8px;
+    color: #667eea;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.zotero-link:hover {
+    text-decoration: underline;
+}
+
+.zotero-filter-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.zotero-filter-group label {
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: #333;
+    font-size: 14px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .zotero-filters {
+        grid-template-columns: 1fr;
+    }
+    
+    .zotero-header {
+        padding: 15px;
+    }
+    
+    .zotero-controls {
+        padding: 15px;
+    }
+    
+    .zotero-reference {
+        padding: 15px;
+    }
+}
