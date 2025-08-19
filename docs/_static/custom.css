@@ -64,3 +64,31 @@
     width: calc(100% - 250px) !important;
     max-width: none !important;
 }
+
+/* Add logo to the top of the navigation panel */
+.bd-sidebar-primary::before {
+    content: "";
+    display: block;
+    background-image: url("Logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 120px;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Style the navigation panel logo area */
+.bd-sidebar-primary .bd-sidebar {
+    padding-top: 10px;
+}
+
+/* Ensure logo is responsive */
+@media (max-width: 768px) {
+    .bd-sidebar-primary::before {
+        height: 80px;
+        margin-bottom: 15px;
+    }
+}
