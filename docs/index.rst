@@ -34,14 +34,6 @@ We are very much open to feedbacks and contributions, please refer to :doc:`cont
    currents/currents
    Geopositioning/geopositioning
 
-.. DIY instruments
-.. ----------------
-
-.. toctree::
-   :maxdepth: 1
-   :caption: DIY instruments
-
-   diy_instru/diy_instru
 
 .. toctree::
    :maxdepth: 1
