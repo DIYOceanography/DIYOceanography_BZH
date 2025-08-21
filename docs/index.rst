@@ -34,7 +34,18 @@ We are very much open to feedbacks and contributions, please refer to :doc:`cont
    currents/currents
    Geopositioning/geopositioning
 
+.. Tools
+.. -----
+.. toctree::
+   :maxdepth: 1
+   :caption: DIY instruments & tools
 
+   metrology/metrology
+   diy_instru/diy_instru
+
+
+.. Bibliography
+.. ----------
 .. toctree::
    :maxdepth: 1
    :caption: Bibliography
