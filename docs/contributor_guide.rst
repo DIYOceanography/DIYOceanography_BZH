@@ -24,6 +24,8 @@ We are currently looking for contributions in the following areas:
 
 - **Guide to beginners in electronic**: We are looking for contributions to the guide to beginners in electronics, including explanations of basic concepts, components, and circuits.
 
+- **Good practice for Gitlab projects**: We are looking for contributions to the good practices for Gitlab projects, including guidelines for project structure, issue management, and collaboration.
+
 - **Temperature section**: We are looking for contributions to the temperature section, including thermography and optical sensing. 
 
 - **Containerization section**: We are looking for contributions to the containerization section, including explanations on difficulties and not to, in order to create and use containers for DIY oceanographic instrumentation.
