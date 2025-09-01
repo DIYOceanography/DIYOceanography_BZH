@@ -1,0 +1,9 @@
+Project;Variables;Main material;Reference;Range;Git;Website;Maximum depth;Measurement error ;Validation documentation;Intercomparison / Connected papers;Advantages;Limitations;Cost;Size;Runtime;Repairability index;Lifespan/maintenance;Storage;Interchangeability;Communication type
+SmartFluo (chlorophylle a);Chlorophyll a Fluorescence;- Smartphone, adapter : LED and filter;https://www.mdpi.com/1424-8220/17/4/678;"Min : 10 µg/L Max : 250 µg/L";;;;;;;;;;;;;;;;
+Fluoromètre Phytoplancton;Chlorophylle a Fluorescence;Silicon photodiode, Arduino;https://www.mdpi.com/1424-8220/13/6/7872;"Min : 0 µg/L Max : 100 µg/L";;;2 m;0,3 µg/L;;;$150;;$150;;;;;;;
+Chlorophyll-a HD DVD;Chlorophyll a Fluorescence;Low-coast optical pick-up unit from an HD-DVD;https://www.sciencedirect.com/science/article/pii/S0039914023011980;"Min : 0,35 µg/L Max : 100 µg/L";;;;0 µg/L ≤ e ≤ 4 µg/L;;;$137.5;;;;;;;;;
+Fluoromètre Rhodomine;Fluorescence;;https://ieeexplore.ieee.org/abstract/document/10149195;"Min : 0,2 µg/L Max : 60 µg/L";;;500 m;0,11 mV ≤ e ≤ 0,37 mV;;;$ 750;;;;;;;;;
+SSC Sensor;Turbidity;"- ESP32 microcontroller - turbidity sensor (Turbimax CUS52D)";https://www.nature.com/articles/s41598-022-14228-4;"Min : 0 NTU Max : 4000 NTU";https://github.com/rivertechlabs/turbiditysensor/tree/main;;;0,4 g/L ≤ e ≤ 16 g/L;;;64,00 €;;;;;;;;;
+STAR;Turbidity;"- photodiode - led";https://ieeexplore.ieee.org/abstract/document/8457209;"Min : 8 NTU Max : 100 NTU";;;;0,3 % ≤ e ≤ 5,4 %;;;$ 70;;;;;;;;;
+Smart Turbimeter;Turbidity;"- Arduino possible - photodiode - photorésistance";https://www.sciencedirect.com/science/article/pii/S0144860917302480;"Min : 12 NTU Max : 200 NTU";;;surface;e ≤ 3,27%;;;9,00 €;;;;;;;;;
+Low power sensor;Turbidité;"- phototransistor - photodiode";https://ieeexplore.ieee.org/abstract/document/8337739;"Min : 0 NTU Max : 1000 NTU";;;surface;"0,1 NTU 1 NTU when < 100 NTU";;;;;;;;;;;;
