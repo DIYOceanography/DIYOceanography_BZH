@@ -20,9 +20,11 @@ We are currently looking for contributions in the following areas:
 
 - **Variables & sensors sections**: Transform the current slides into text for : turbidity, oxygen, fluorescence, currents and geopositioning.
 
-- **General metrology**: We are looking for contributions to the general metrology section, including a dictionnary of  of terms, definitions, and explanations of concepts related to metrology.
+- **Datalogger section**: We are looking for contributions to the datalogger section, including explanations of how to use and build dataloggers, as well as links to existing projects (see open issue on our GitHub repository)
 
 - **Guide to beginners in electronic**: We are looking for contributions to the guide to beginners in electronics, including explanations of basic concepts, components, and circuits.
+
+- **Good practice for Gitlab projects**: We are looking for contributions to the good practices for Gitlab projects, including guidelines for project structure, issue management, and collaboration.
 
 - **Temperature section**: We are looking for contributions to the temperature section, including thermography and optical sensing. 
 
@@ -34,7 +36,7 @@ We are currently looking for contributions in the following areas:
 
 - **Testing and validation**: We are looking for contributions to the testing and validation of DIY instruments, including test cases, validation procedures, and comparisons with commercial instruments.
 
-- **Zotero library**: We are looking for contributions to the Zotero library, including creation, new references, annotations, and organization of the library. 
+- **Zotero library**: We are looking for contributions to the Zotero library, including new references, annotations, and organization of the library.
 
 The list of variables we wish to cover eventually is : 
  - fouling
