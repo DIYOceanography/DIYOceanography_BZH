@@ -38,16 +38,8 @@ We are very much open to feedbacks and contributions, please refer to :doc:`cont
 .. -----
 .. toctree::
    :maxdepth: 1
-   :caption: DIY instruments & tools
+   :caption: DIY instruments & Tools
 
-   metrology/metrology
    diy_instru/diy_instru
-
-
-.. Bibliography
-.. ----------
-.. toctree::
-   :maxdepth: 1
-   :caption: Bibliography
-   
+   metrology/metrology
    bibliographie/bibliographie
