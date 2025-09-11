@@ -1,45 +1,105 @@
+
+.. figure:: _static/banner.jpg
+   :width: 100%
+   :height: 150px
+   :class: no-scaled-link
+   :align: center
+
 .. diyoceanbzh documentation master file, created
    from pynsitu doc on 16/04/2024
 
-DIY Oceanography BZH
-====================
 
-**DIY Oceanography BZH** gathers useful resources for the development of open Do-It-Yourself oceanographic instrumentation, see more :doc:`the more detailed description of our motivation and objectives <why-DIY-Oceanography-BZH>`.
 
-We are very much open to feedbacks and contributions, please refer to :doc:`contributions guides <contributor_guide>`.
+.. include:: why-DIY-Oceanography-BZH.rst
 
-.. General
-.. --------
+------------------------------------------------------------------
 
-.. toctree::
-   :maxdepth: 1
-   :caption: General information
+Covered sections
+=================
 
-   why-DIY-Oceanography-BZH
-   contributor_guide
-   whats-new
+
+.. panels::
+   :container: container-lg pb-3
+   :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
+   :body: text-dark dark:text-light
+
+   ---
+   :header: bg-primary text-center text-light
+   
+   **Contributions**
+   ^^^
+   Learn how to contribute to this project and join our community
+   +++
+   .. link-button:: contributor_guide
+      :type: ref
+      :text: Contribution Guides
+      :classes: btn-outline-primary btn-block
+
+   ---
+   :header: bg-primary text-center text-white
+   
+   **Variables & Sensors**
+   ^^^
+   Explore different oceanographic variables and measurement techniques:
+
+   * :doc:`Temperature </temperature/temperature>`
+   * :doc:`Conductivity </conductivity/conductivity>`
+   * :doc:`Turbidity </turbidity/turbidity>`
+   * :doc:`Oxygen </oxygen/oxygen>`
+   * :doc:`Fluorescence </fluorescence/fluorescence>`
+   * :doc:`Currents </currents/currents>`
+   * :doc:`Geopositioning </Geopositioning/geopositioning>`
+
+   ---
+   :header: bg-primary text-center text-white
+   
+   **Tools & Resources**
+   ^^^
+   Access helpful tools and resources:
+
+   * :doc:`DIY Instruments </diy_instru/diy_instru>`
+   * :doc:`Metrology </metrology/metrology>`
+   * :doc:`Bibliography </bibliographie/bibliographie>`
+
+------------------------------------------------------------------
+
+.. include:: whats-new.rst
+
+------------------------------------------------------------------
+
 
 .. Variables & sensors
 .. -------------------
 
-.. toctree::
+.. toctree:: 
+   :hidden:
    :maxdepth: 1
    :caption: Variables & sensors
 
    temperature/temperature
    conductivity/conductivity
+   turbidity/turbidity
    oxygen/oxygen
    fluorescence/fluorescence
-   turbidity/turbidity
    currents/currents
    Geopositioning/geopositioning
 
 .. Tools
 .. -----
-.. toctree::
+.. toctree:: 
+   :hidden:
    :maxdepth: 1
    :caption: DIY instruments & Tools
 
    diy_instru/diy_instru
    metrology/metrology
    bibliographie/bibliographie
+
+.. Feedback & contributor Guides
+.. ----------------------------
+.. toctree:: 
+   :hidden:
+   :maxdepth: 1
+   :caption: Feedback & contributor Guides
+
+   contributor_guide

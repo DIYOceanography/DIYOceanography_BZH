@@ -4,7 +4,7 @@
     text-align: center;
     margin-bottom: 30px;
     padding: 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #495057 0%, #5A92BA 100%);
     color: white;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -31,7 +31,7 @@
 
 .zotero-search-bar:focus {
     outline: none;
-    border-color: #667eea;
+    border-color: #5A92BA;
 }
 
 .zotero-filters {
@@ -141,7 +141,7 @@
 
 .zotero-tag {
     display: inline-block;
-    background-color: #667eea;
+    background-color: #5A92BA;
     color: white;
     padding: 2px 8px;
     font-size: 11px;
@@ -159,7 +159,7 @@
 .zotero-link {
     display: inline-block;
     margin-top: 8px;
-    color: #667eea;
+    color: #5A92BA;
     text-decoration: none;
     font-size: 13px;
 }

@@ -5,13 +5,15 @@ What's New
 
 .. _whats-new.0.0.0:
 
-v0.0.0 (on going)
 -----------------
 
 Initial deployment
 ~~~~~~~~~~~~~~~~~~
 
-- ... (August 2025) First pass to write the temperature sensors section and modification of the website tool.
+- ... (September 2025) Webdesign improvements, new logo, new color scheme, new favicon, new illustrations.
+  By `Adèle Moncuquet <https://github.com/Chtululu>`_. Thank you to `Sébastien Hervé <https://www-iuem.univ-brest.fr/lemar/equipe/herve_sebastien/>`_ for the help on Webdesign.
+
+- ... (July - August 2025) Temperature, turbidity, metrology sensors section written, zotero library research tool added, 
   By `Adèle Moncuquet <https://github.com/Chtululu>`_.
 
 - ... (July 2024) First pass at providing global structure and information completed.

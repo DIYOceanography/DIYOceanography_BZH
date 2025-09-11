@@ -114,6 +114,7 @@ todo_include_todos = False
 #html_theme = "sphinx_rtd_theme"
 #html_theme = 'alabaster'
 html_theme = "sphinx_book_theme"
+#html_logo = None  # Disable default logo
 # inspiration: https://github.com/xgcm/xgcm/blob/master/doc/conf.py
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -126,7 +127,12 @@ html_theme_options = {
     "path_to_docs": "doc",
     "use_repository_button": True,
     "use_issues_button": True,
-    "use_edit_page_button": True
+    "use_edit_page_button": True,
+    "logo": {
+        "image_dark": "_static/Logo_invert.jpg",
+        "image_light": "_static/Logo.png",
+        "link":"https://diy-oceanography-bzh.readthedocs.io"
+    }
 }
 
 html_css_files = [

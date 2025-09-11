@@ -4,7 +4,7 @@ Why DIY Oceanography BZH?
 Motivation and Context
 ----------------------
 
-Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [BUT2021]_ [MAR2021]_.
+Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [Butler 2021] [Marcelli 2021].
 Our objective is too centralize knowledge and material that may foster the development these projects.
 
 Our effort has been so far conducted from Brest (France) with members principally from the academic and public societies.
@@ -23,22 +23,25 @@ Taking one variable of interest at a time, we wish first to:
 #. assemble a list of either commercially available sensors or open projects.
 
 For each sensor type, we present:
-- The general physical measurement principle  
-- Different sensor types for the same technology
-- Advantages and limitations
-- Associated references
 
-The purpose is to empower people with the necessary information to select the most adequate sensor for their DIY instrumental projects.
+- The general physical measurement principle.
+- Different sensor types for the same technology.
+- Advantages and limitations. 
+- Associated references.
 
-The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,  :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`turbidity <turbidity/turbidity>`, :doc:`ocean currents <currents/currents>`.
+The purpose is to empower people with the necessary information to select the most adequate sensor for their instrumental projects.
 
-We are currently looking for :doc:`contributions <contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
+The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,   :doc:`turbidity <turbidity/turbidity>`.
+Next variables to be covered include :doc:`oxygen <oxygen/oxygen>`, :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`currents <currents/currents>` and :doc:`geopositioning <Geopositioning/geopositioning>`. We are currently looking for :doc:`contributions <contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
 References
 ----------
+You can access publications and book references via the :doc:`bibliographical tool </bibliographie/bibliographie>`.
 
-.. [MAR2021] Marcelli, M., Piermattei, V., Gerin, R., Brunetti, F., Pietrosemoli, E., Addo, S., Boudaya, L., Coleman, R., Nubi, O.A., Jojannes, R., Sarker, S., Sohou, Z., Zennaro, M., Whiltshire, K., Crise, A., 2021. Toward the widespread application of low-cost technologies in coastal ocean observing (Internet of Things for the Ocean). Medit. Mar. Sci. https://doi.org/10.12681/mms.25060
+    - Marcelli, M., Piermattei, V., Gerin, R., Brunetti, F., Pietrosemoli, E., Addo, S., Boudaya, L., Coleman, R., Nubi, O.A., Jojannes, R., Sarker, S., Sohou, Z., Zennaro, M., Whiltshire, K., Crise, A., 2021. Toward the widespread application of low-cost technologies in coastal ocean observing (Internet of Things for the Ocean). Medit. Mar. Sci. https://doi.org/10.12681/mms.25060
 
-.. [BUT2021] Butler, J., Pagniello, C., 2021. Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean. Oceanog 94–95. https://doi.org/10.5670/oceanog.2021.supplement.02-35
+    - Butler, J., Pagniello, C., 2021. Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean. Oceanog 94–95. https://doi.org/10.5670/oceanog.2021.supplement.02-35
+
 
 .. _sensors: https://en.wikipedia.org/wiki/Sensor
+    
