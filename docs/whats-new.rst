@@ -1,11 +1,7 @@
 .. currentmodule:: diyoceanobzh
 
-What's New
-==========
-
-.. _whats-new.0.0.0:
-
------------------
+What's New ?
+============
 
 Initial deployment
 ~~~~~~~~~~~~~~~~~~

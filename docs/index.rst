@@ -1,5 +1,5 @@
 
-.. figure:: _static/banner.jpg
+.. figure:: _static/banner_1.jpg
    :width: 100%
    :height: 150px
    :class: no-scaled-link
@@ -8,6 +8,7 @@
 .. diyoceanbzh documentation master file, created
    from pynsitu doc on 16/04/2024
 
+------------------------------------------------------------------
 
 
 .. include:: why-DIY-Oceanography-BZH.rst
@@ -15,8 +16,7 @@
 ------------------------------------------------------------------
 
 Covered sections
-=================
-
+================
 
 .. panels::
    :container: container-lg pb-3
@@ -66,16 +66,31 @@ Covered sections
 .. include:: whats-new.rst
 
 ------------------------------------------------------------------
+
+References
+==========
+
+You can access publications and book references via the :doc:`bibliographical tool </bibliographie/bibliographie>`.
+
+    - Marcelli, M., Piermattei, V., Gerin, R., Brunetti, F., Pietrosemoli, E., Addo, S., Boudaya, L., Coleman, R., Nubi, O.A., Jojannes, R., Sarker, S., Sohou, Z., Zennaro, M., Whiltshire, K., Crise, A., 2021. Toward the widespread application of low-cost technologies in coastal ocean observing (Internet of Things for the Ocean). Medit. Mar. Sci. https://doi.org/10.12681/mms.25060
+
+    - Butler, J., Pagniello, C., 2021. Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean. Oceanog 94–95. https://doi.org/10.5670/oceanog.2021.supplement.02-35
+
+
+------------------------------------------------------------------
+
+
 .. Feedback & contributor Guides
 .. ----------------------------
 .. toctree:: 
    :hidden:
-   contributor_guide
+   :maxdepth: 1
+   :caption: Feedback & contributor Guides
 
+   contributor_guide
 
 .. Variables & sensors
 .. -------------------
-
 .. toctree:: 
    :hidden:
    :maxdepth: 1
@@ -90,7 +105,7 @@ Covered sections
    Geopositioning/geopositioning
 
 .. Tools
-.. -----
+.. ------------------
 .. toctree:: 
    :hidden:
    :maxdepth: 1

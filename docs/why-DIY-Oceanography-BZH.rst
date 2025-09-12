@@ -1,18 +1,25 @@
-Why DIY Oceanography BZH?
-=========================
+.. raw:: html
 
-Motivation and Context
+   <h1 style="text-align: center;">Why DIY Oceanography BZH?</h1>
+
+
+                      
 ----------------------
 
 Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [Butler 2021] [Marcelli 2021].
 Our objective is too centralize knowledge and material that may foster the development these projects.
 
+These days, the industry offers a wide range of low-cost sensors and dataloggers. However, not all levels of depth and precision can be achieved through DIY or low-cost approaches. 
+This website aims to clarify which levels can be achieved with low-cost approaches and where the focus of low-cost oceanographic instrumentation could lie, as well as facilitating discussion between users and developers.
+
 Our effort has been so far conducted from Brest (France) with members principally from the academic and public societies.
 The project relies on voluntary contributions.
-Do not hesite to provide feedback about our approach (see related :doc:`guide <contributor_guide>`) !
+Do not hesitate to provide feedback about our approach (see related :doc:`guide <contributor_guide>`) !
+
+----
 
 Scope
------
+=====
 
 The ongoing effort of our working group focuses on sensors_, the movitation being that they consitute the cornerstone for all instruments.
 We are therefore intentionnaly not adressing at the moment data logging, physical containering and mechanical design of the hosting platform.
@@ -34,14 +41,4 @@ The purpose is to empower people with the necessary information to select the mo
 The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,   :doc:`turbidity <turbidity/turbidity>`.
 Next variables to be covered include :doc:`oxygen <oxygen/oxygen>`, :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`currents <currents/currents>` and :doc:`geopositioning <Geopositioning/geopositioning>`. We are currently looking for :doc:`contributions <contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
-References
-----------
-You can access publications and book references via the :doc:`bibliographical tool </bibliographie/bibliographie>`.
-
-    - Marcelli, M., Piermattei, V., Gerin, R., Brunetti, F., Pietrosemoli, E., Addo, S., Boudaya, L., Coleman, R., Nubi, O.A., Jojannes, R., Sarker, S., Sohou, Z., Zennaro, M., Whiltshire, K., Crise, A., 2021. Toward the widespread application of low-cost technologies in coastal ocean observing (Internet of Things for the Ocean). Medit. Mar. Sci. https://doi.org/10.12681/mms.25060
-
-    - Butler, J., Pagniello, C., 2021. Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean. Oceanog 94–95. https://doi.org/10.5670/oceanog.2021.supplement.02-35
-
-
 .. _sensors: https://en.wikipedia.org/wiki/Sensor
-    
