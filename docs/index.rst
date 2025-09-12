@@ -66,6 +66,11 @@ Covered sections
 .. include:: whats-new.rst
 
 ------------------------------------------------------------------
+.. Feedback & contributor Guides
+.. ----------------------------
+.. toctree:: 
+   :hidden:
+   contributor_guide
 
 
 .. Variables & sensors
@@ -95,11 +100,3 @@ Covered sections
    metrology/metrology
    bibliographie/bibliographie
 
-.. Feedback & contributor Guides
-.. ----------------------------
-.. toctree:: 
-   :hidden:
-   :maxdepth: 1
-   :caption: Feedback & contributor Guides
-
-   contributor_guide
