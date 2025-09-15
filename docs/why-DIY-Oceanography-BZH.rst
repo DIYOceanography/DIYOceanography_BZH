@@ -6,11 +6,10 @@
                       
 ----------------------
 
-Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [Butler 2021] [Marcelli 2021].
-Our objective is too centralize knowledge and material that may foster the development these projects.
+Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [Butler 2021] [Marcelli 2021]. There is a wide range of low-cost sensors and dataloggers available. 
+However, not all levels of depth and precision can be achieved through DIY or low-cost methods. The aim of this website is to clarify which levels can be achieved with low-cost approaches, where the focus of low-cost oceanographic instrumentation could lie and to facilitate discussion between users and developers.
+Our objective is to centralise knowledge and materials that could promote the development of these projects. 
 
-These days, the industry offers a wide range of low-cost sensors and dataloggers. However, not all levels of depth and precision can be achieved through DIY or low-cost approaches. 
-This website aims to clarify which levels can be achieved with low-cost approaches and where the focus of low-cost oceanographic instrumentation could lie, as well as facilitating discussion between users and developers.
 
 Our effort has been so far conducted from Brest (France) with members principally from the academic and public societies.
 The project relies on voluntary contributions.
@@ -37,8 +36,5 @@ For each sensor type, we present:
 - Associated references.
 
 The purpose is to empower people with the necessary information to select the most adequate sensor for their instrumental projects.
-
-The variables covered so far are: :doc:`temperature <temperature/temperature>`, :doc:`conductivity/salinity <conductivity/conductivity>`,   :doc:`turbidity <turbidity/turbidity>`.
-Next variables to be covered include :doc:`oxygen <oxygen/oxygen>`, :doc:`fluorescence <fluorescence/fluorescence>`, :doc:`currents <currents/currents>` and :doc:`geopositioning <Geopositioning/geopositioning>`. We are currently looking for :doc:`contributions <contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
 .. _sensors: https://en.wikipedia.org/wiki/Sensor

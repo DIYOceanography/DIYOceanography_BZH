@@ -6,11 +6,11 @@ What's New ?
 Initial deployment
 ~~~~~~~~~~~~~~~~~~
 
-- ... (September 2025) Webdesign improvements, new logo, new color scheme, new favicon, new illustrations.
-  By `Adèle Moncuquet <https://github.com/Chtululu>`_. Thank you to `Sébastien Hervé <https://www-iuem.univ-brest.fr/lemar/equipe/herve_sebastien/>`_ for the help on Webdesign.
+- ... (September 2025) Webdesign improvements
+  By `Adèle Moncuquet <https://github.com/Chtululu>`_ and feedbacks from `Sébastien Hervé <https://www-iuem.univ-brest.fr/lemar/equipe/herve_sebastien/>`_.
 
-- ... (July - August 2025) Temperature, turbidity, metrology sensors section written, zotero library research tool added, 
-  By `Adèle Moncuquet <https://github.com/Chtululu>`_.
+- ... (July - August 2025) Temperature, metrology and turbidity section written, Library research tool added,
+  By `Louis Marié <https://orcid.org/0000-0003-2583-0994>`_, `Caroline Le Bihan <https://orcid.org/0000-0002-8737-2530>`_, `Matthias Jacquet <https://annuaire.ifremer.fr/cv/17611/>`_ and `Adèle Moncuquet <https://github.com/Chtululu>`_ with feedback from `Aurelien Ponte <https://github.com/apatlpo>`_.
 
 - ... (July 2024) First pass at providing global structure and information completed.
   By `Aurelien Ponte <https://github.com/apatlpo>`_.

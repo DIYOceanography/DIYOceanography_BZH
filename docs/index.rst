@@ -1,10 +1,3 @@
-
-.. figure:: _static/banner_1.jpg
-   :width: 100%
-   :height: 150px
-   :class: no-scaled-link
-   :align: center
-
 .. diyoceanbzh documentation master file, created
    from pynsitu doc on 16/04/2024
 
@@ -45,10 +38,10 @@ Covered sections
    * :doc:`Temperature </temperature/temperature>`
    * :doc:`Conductivity </conductivity/conductivity>`
    * :doc:`Turbidity </turbidity/turbidity>`
-   * :doc:`Oxygen </oxygen/oxygen>`
-   * :doc:`Fluorescence </fluorescence/fluorescence>`
-   * :doc:`Currents </currents/currents>`
-   * :doc:`Geopositioning </Geopositioning/geopositioning>`
+   * :doc:`Oxygen - work in progress </oxygen/oxygen>`
+   * :doc:`Fluorescence - work in progress </fluorescence/fluorescence>`
+   * :doc:`Currents - work in progress </currents/currents>`
+   * :doc:`Geopositioning - work in progress </Geopositioning/geopositioning>`
 
    ---
    :header: bg-primary text-center text-white
@@ -60,6 +53,9 @@ Covered sections
    * :doc:`DIY Instruments </diy_instru/diy_instru>`
    * :doc:`Metrology </metrology/metrology>`
    * :doc:`Bibliography </bibliographie/bibliographie>`
+
+We are currently looking for :doc:`contributions <contributor_guide>`. Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
+
 
 ------------------------------------------------------------------
 
