@@ -18,34 +18,18 @@ Current need for contributions :
 
 We are currently looking for contributions in the following areas:
 
-- **Variables & sensors sections**: Transform the current slides into text for : turbidity, oxygen, fluorescence, currents and geopositioning.
-
-- **Datalogger section**: We are looking for contributions to the datalogger section, including explanations of how to use and build dataloggers, as well as links to existing projects (see open issue on our GitHub repository)
-
-- **Guide to beginners in electronic**: We are looking for contributions to the guide to beginners in electronics, including explanations of basic concepts, components, and circuits.
-
-- **Good practice for Gitlab projects**: We are looking for contributions to the good practices for Gitlab projects, including guidelines for project structure, issue management, and collaboration.
-
+ - **pH**
+ - **Passive acoustics**
+ - **Sea level**
+ - **Underwater positioning**
+ - **PAR**
+ - **Variables & sensors sections**: Transform slides into text for : oxygen, currents and geopositioning.
 - **Temperature section**: We are looking for contributions to the temperature section, including thermography and optical sensing. 
-
-- **Containerization section**: We are looking for contributions to the containerization section, including explanations on difficulties and not to, in order to create and use containers for DIY oceanographic instrumentation.
-
-- **Current DIY instruments**: We are looking for contributions to the current DIY instruments section, including translation and link to online document.
-
 - **DIY instruments**: We are looking for contributions to the DIY instruments section, including new instruments, improvements to existing instruments, and additional information on how to build and use them.
-
 - **Testing and validation**: We are looking for contributions to the testing and validation of DIY instruments, including test cases, validation procedures, and comparisons with commercial instruments.
-
 - **Zotero library**: We are looking for contributions to the Zotero library, including new references, annotations, and organization of the library.
 
-The list of variables we wish to cover eventually is : 
- - fouling
- - oxygen
- - pH 
- - passive accoustics
- - sea level 
- - surface positionning
- - underwater positionning. 
+Ultimately we aim to cover : data loggers, biofouling, physical containering and mechanical design of the hosting platform, electronics, github projects and good practices for open source projects.
 
 Feel free to suggest any variable you wish to see in this list by `opening a new issue <https://github.com/DIYOceanography/DIYOceanography_BZH/issues/new/choose>`_ on our GitHub repository.
 
