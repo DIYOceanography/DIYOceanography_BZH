@@ -4,7 +4,7 @@
 .. raw:: html
 
    <div style="width:100%;margin-bottom:1.5em;">
-      <img src="_static/banniere_3.jpg" alt="Bannière DIY Oceanography BZH" style="width:100%;height:auto;max-height:150px;object-fit:cover;display:block;margin:auto;">
+      <img src="_static/bannière_1_1.jpg" alt="Bannière DIY Oceanography BZH" style="width:100%;height:auto;max-height:150px;object-fit:cover;display:block;margin:auto;">
    </div>
 
 ------------------------------------------------------------------
