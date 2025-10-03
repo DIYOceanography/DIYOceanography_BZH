@@ -19,6 +19,7 @@ Current need for contributions :
 We are currently looking for contributions in the following areas:
 
  - **pH**
+ - **Chlorophyll**
  - **Passive acoustics**
  - **Sea level**
  - **Underwater positioning**
