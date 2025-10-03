@@ -1,0 +1,18 @@
+<svg width="183mm" height="244mm" version="1.1" viewBox="0 0 183 244" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="183" height="244" fill="#fff"/>
+ <g style="font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman'" font-size="12px" text-anchor="middle">
+ <g id="b" transform="translate(-5-32)"><path d="m50 263h135" stroke="#000" stroke-width="2"/><path d="m50 204h94m-94-4h94m-94 12h94m-94 17h94m-94 17h94" stroke="#000"/><text fill="#000"><tspan x="42" y="266">0</tspan><tspan x="42" y="249">1</tspan><tspan x="42" y="233">2</tspan><tspan x="42" y="216">3</tspan></text></g>
+ <use transform="translate(0-166)" xlink:href="#b"/>
+ <g id="a" transform="translate(-9-32)"><path d="m78 63-2-5 2 1 2-1-2 5" fill="#f00"/><path d="m78 46v14" stroke="#f00"/></g>
+ <use transform="translate(12 17)" xlink:href="#a"/><use transform="translate(25 34)" xlink:href="#a"/>
+ <g transform="translate(-4-32)"><path d="m64 263v-113m0-11v-89" stroke="#00f"/>
+ <path d="m61 56 3-2 3 2-3-10z" fill="#00f"/></g>
+ <g transform="translate(-57-43)"><path d="m64 191v-141" stroke="#000"/><path d="m61 56 3-2 3 2-3-10z"/></g>
+ <g transform="matrix(1 0 0-1 51 244)"><path d="m64 178v-63m0-12v-53" stroke="#0a0"/><path d="m61 56 3-2 3 2-3-10z" fill="#0a0"/></g>
+ <rect x="85" y="21" width="82" height="22" fill="#fff"/>
+ <text font-size="14px" font-weight="bold"><tspan x="23" y="42">S<tspan baseline-shift="sub" font-size="10px">1</tspan></tspan><tspan x="23" y="210">S<tspan baseline-shift="sub" font-size="10px">0</tspan></tspan></text>
+ <text fill="#00f"><tspan x="59" y="116">Absorption</tspan></text>
+ <text fill="#0a0"><tspan x="116" y="137">Fluorescence</tspan></text>
+ <text><tspan x="108" y="242">Ground State</tspan></text>
+ <text fill="#f00"><tspan x="129" y="28">Non-radiative</tspan><tspan x="131" y="39">transition</tspan></text>
+ <text transform="rotate(-90)" font-weight="bold"><tspan x="-173" y="10">Energy</tspan></text></g></svg>
