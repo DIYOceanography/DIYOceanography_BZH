@@ -1,6 +1,12 @@
 .. diyoceanbzh documentation master file, created
    from pynsitu doc on 16/04/2024
 
+.. raw:: html
+
+   <div style="width:100%;margin-bottom:1.5em;">
+      <img src="_static/bannière_1_1.jpg" alt="Bannière DIY Oceanography BZH" style="width:100%;height:auto;max-height:150px;object-fit:cover;display:block;margin:auto;">
+   </div>
+
 ------------------------------------------------------------------
 
 
@@ -23,8 +29,8 @@ Covered sections
    ^^^
    Learn how to contribute to this project and join our community
    +++
-   .. link-button:: contributor_guide
-      :type: ref
+   .. link-button:: contributor_guide.html
+      :type: url
       :text: Contribution Guides
       :classes: btn-outline-primary btn-block
 
@@ -81,7 +87,6 @@ You can access publications and book references via the :doc:`bibliographical to
 .. toctree:: 
    :hidden:
    :maxdepth: 1
-   :caption: Feedback & contributor Guides
 
    contributor_guide
 
@@ -105,7 +110,7 @@ You can access publications and book references via the :doc:`bibliographical to
 .. toctree:: 
    :hidden:
    :maxdepth: 1
-   :caption: DIY instruments & Tools
+   :caption: Tools & Resources
 
    diy_instru/diy_instru
    metrology/metrology

@@ -19,15 +19,16 @@ Current need for contributions :
 We are currently looking for contributions in the following areas:
 
  - **pH**
+ - **Chlorophyll**
  - **Passive acoustics**
  - **Sea level**
  - **Underwater positioning**
  - **PAR**
  - **Variables & sensors sections**: Transform slides into text for : oxygen, currents and geopositioning.
-- **Temperature section**: We are looking for contributions to the temperature section, including thermography and optical sensing. 
-- **DIY instruments**: We are looking for contributions to the DIY instruments section, including new instruments, improvements to existing instruments, and additional information on how to build and use them.
-- **Testing and validation**: We are looking for contributions to the testing and validation of DIY instruments, including test cases, validation procedures, and comparisons with commercial instruments.
-- **Zotero library**: We are looking for contributions to the Zotero library, including new references, annotations, and organization of the library.
+ - **Temperature section**: We are looking for contributions to the temperature section, including thermography and optical sensing. 
+ - **DIY instruments**: We are looking for contributions to the DIY instruments section, including new instruments, improvements to existing instruments, and additional information on how to build and use them.
+ - **Testing and validation**: We are looking for contributions to the testing and validation of DIY instruments, including test cases, validation procedures, and comparisons with commercial instruments.
+ - **Zotero library**: We are looking for contributions to the Zotero library, including new references, annotations, and organization of the library.
 
 Ultimately we aim to cover : data loggers, biofouling, physical containering and mechanical design of the hosting platform, electronics, github projects and good practices for open source projects.
 
