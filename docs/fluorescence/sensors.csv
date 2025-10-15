@@ -17,12 +17,12 @@ Phycoérythrine";"0.03 ppb*
 <1%
 <1%";;;;;"Mobdus RS232/RS485
 Solution 3G/4G";;250m;;https://nke-instrumentation.com/wp-content/uploads/2022/08/Datasheet-WIMO-FR-web.pdf;https://nke-instrumentation.fr/produit/wimo-sonde-multiparametres/;;*Rhodamine
-SmartFluo;quantification de la lumière rouge  présente sur l’image prise par le téléphone;Chlorophyll a;"1 DN/s ≤ e ≤ 80 DN/s 
+SmartFluo;quantification of the red light present in the image taken by the phone;Chlorophyll a;"1 DN/s ≤ e ≤ 80 DN/s 
 (plus d’erreur proche de 1 que de 80 DN/s)";"Min : 10 µg/L
-Max : 250 µg/L";;4,5 DN/s;;;;;;Surface;33€ - 73 € + prix du smartphone;https://www.mdpi.com/1424-8220/17/4/678;DIY;;
-Fluoromètre Phytoplancton;quantification du voltage transmis après excitation de la chlorophylle avec une led à 448 nm;Chlorophyll a;e ≥ 0,3 µg/L;"Min : 0 µg/L
+Max : 250 µg/L";;4-5 DN/s;;;;;;Surface;33€ - 73 € + prix du smartphone;https://www.mdpi.com/1424-8220/17/4/678;DIY;;
+Fluoromètre Phytoplancton;quantification of the voltage transmitted after excitation of chlorophyll with a 448 nm LED;Chlorophyll a;e ≥ 0.3 µg/L;"Min : 0 µg/L
 Max : 100 µg/L";4 % comparer à un instrument commercial;;;;;UART;;2m;$ 150;https://www.mdpi.com/1424-8220/13/6/7872;DIY;448 nm;
-Chlorophyll-a HD DVD;quantification du voltage transmis après excitation de la chlorophylle avec le laser de l’OPU à 405 nm;Chlorophyll a;0 µg/L ≤ e ≤ 4 µg/L;"Min : 0,35 µg/L
+Chlorophyll-a HD DVD;quantification of the voltage transmitted after excitation of chlorophyll with the OPU laser at 405 nm;Chlorophyll a;0 µg/L ≤ e ≤ 4 µg/L;"Min : 0.35 µg/L
 Max : 100 µg/L";< 4 %;;;;;UART;;Surface;$ 140;https://www.sciencedirect.com/science/article/pii/S0039914023011980;DIY;405 nm;
-Fluoromètre Rhodomine;quantification du voltage transmis après excitation des RWT avec une led à 555 nm;Rhodamine;0,11 mV ≤ e ≤ 0,37 mV;"Min : 0,2 µg/L
+Fluoromètre Rhodomine;quantification of the voltage transmitted after excitation of the RWTs with a 555 nm LED;Rhodamine;0.11 mV ≤ e ≤ 0.37 mV;"Min : 0.2 µg/L
 Max : 60 µg/L";2 %;;;;;;;500m;$ 750;https://ieeexplore.ieee.org/abstract/document/10149195;DIY;555 nm;
