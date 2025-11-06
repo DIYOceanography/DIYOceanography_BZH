@@ -3,6 +3,18 @@
 What's New ?
 ============
 
+Upcoming Workshop - December 4th, 2025
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **DIY Oceanography Workshop** (December 4th, 2025, Plouzané )
+  Join us for our upcoming workshop on DIY oceanography techniques and tools.
+  
+  .. raw:: html
+  
+     <div style="text-align: center;">
+       <img src="_static/workshop_program.png" alt="Workshop Program" style="width: 80%; max-width: 100%;">
+     </div>
+
 Initial deployment
 ~~~~~~~~~~~~~~~~~~
 
