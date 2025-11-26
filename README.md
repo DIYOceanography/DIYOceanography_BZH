@@ -94,7 +94,7 @@ Your pull request will be reviewed by the maintainers, and they may request chan
 ## Questions?
 If you have any questions about contributing, feel free to:
 - Open an issue on GitHub
-- Contact us via the mailing list
+- Contact us via the mailing list : diyoceano.bzh@listes.ifremer.fr
 - Check the documentation for more detailed information
 
 
