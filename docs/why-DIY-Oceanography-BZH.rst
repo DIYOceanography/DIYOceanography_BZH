@@ -6,9 +6,8 @@
                       
 ----------------------
 
-Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [Butler 2021] [Marcelli 2021]. However, not all levels of depth and precision can be achieved through DIY or low-cost methods. 
-The aim of this website is to clarify which levels can be achieved with low-cost approaches, where the focus of low-cost oceanographic instrumentation could lie and to facilitate discussion between users and developers.
-Our objective is to centralise knowledge and materials that could promote the development of these projects. 
+Projects including developments of open DIY monitoring systems of the ocean have been multiplying over the last couple of years and worldwide [Butler 2021] [Marcelli 2021]. 
+Our objective is to centralise knowledge and materials that could promote the development of these projects and to facilitate discussions between users and developers. 
 
 The ongoing effort focuses on sensors_, the movitation being that they consitute the cornerstone for all instruments.
 We are therefore intentionnaly not adressing at the moment data logging, physical containering and mechanical design of the hosting platform.

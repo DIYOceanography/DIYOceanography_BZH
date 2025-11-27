@@ -1,9 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/diy-oceanography-bzh/badge/?version=latest)](https://diy-oceanography-bzh.readthedocs.io/en/latest/?badge=latest)
 
-# DIY Oceanography BZH
-
-## How to Contribute
-
 ### Prerequisites
 Before you start contributing to DIY Oceanography BZH, make sure you have:
 - Git installed on your computer: https://git-scm.com/install/
@@ -94,7 +90,5 @@ Your pull request will be reviewed by the maintainers, and they may request chan
 ## Questions?
 If you have any questions about contributing, feel free to:
 - Open an issue on GitHub
-- Contact us via the mailing list
-- Check the documentation for more detailed information
-
+- Contact us via the mailing list : diyoceano.bzh@listes.ifremer.fr
 
