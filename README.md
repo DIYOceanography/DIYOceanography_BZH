@@ -1,5 +1,8 @@
 [![Documentation Status](https://readthedocs.org/projects/diy-oceanography-bzh/badge/?version=latest)](https://diy-oceanography-bzh.readthedocs.io/en/latest/?badge=latest)
 
+# README to contribute to the DIY-Oceano-BzH website 
+The website aim to share knowledge on sensors used in oceanographic instruments. Visit [https://diy-oceanography-bzh.readthedocs.io](https://diy-oceanography-bzh.readthedocs.io/en/latest/?badge=latest) to learn more. 
+
 ### Prerequisites
 Before you start contributing to DIY Oceanography BZH, make sure you have:
 - Git installed on your computer: https://git-scm.com/install/
