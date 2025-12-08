@@ -18,6 +18,12 @@ Upcoming Workshop - December 4th, 2025
 Initial deployment
 ~~~~~~~~~~~~~~~~~~
 
+- ... (November 2025) Oxygen section written,
+  By Anne Daniel  and Adèle Moncuquet.
+
+- ... (October 2025) Fluorescence section written,
+  By Olivier Fauvarque, Dewi Langlet and Adèle Moncuquet.
+
 - ... (September 2025) Webdesign improvements
   By `Adèle Moncuquet <https://github.com/Chtululu>`_ and feedbacks from `Sébastien Hervé <https://www-iuem.univ-brest.fr/lemar/equipe/herve_sebastien/>`_.
 
@@ -29,4 +35,3 @@ Initial deployment
 
 - ... (May 2024) Spin up the project documentation.
   By `Aurelien Ponte <https://github.com/apatlpo>`_ and `Clothilde Haristoy <https://github.com/Hclothilde>`_.
-
