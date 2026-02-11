@@ -3,26 +3,29 @@
 What's New ?
 ============
 
-Upcoming Workshop - December 4th, 2025
+Past Workshop - December 4th, 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **DIY Oceanography Workshop** (December 4th, 2025, Plouzané )
-  Join us for our upcoming workshop on DIY oceanography techniques and tools.
-  
+- **DIY Oceanography 1st Workshop**
+
   .. raw:: html
   
-     <div style="text-align: center;">
-       <img src="_static/workshop_program.png" alt="Workshop Program" style="width: 80%; max-width: 100%;">
-     </div>
+     <details>
+       <summary>Click to view the workshop program</summary>
+       <div style="text-align: center; margin-top: 10px;">
+         <img src="_static/workshop_program.png" alt="Workshop Program" style="width: 40%; max-width: 80%;">
+       </div>
+     </details>
+
 
 Initial deployment
 ~~~~~~~~~~~~~~~~~~
 
 - ... (November 2025) Oxygen section written,
-  By Anne Daniel  and Adèle Moncuquet.
+  By `Anne Daniel <https://annuaire.ifremer.fr/cv/15949/>`_ and `Adèle Moncuquet <https://github.com/Chtululu>`_.
 
 - ... (October 2025) Fluorescence section written,
-  By Olivier Fauvarque, Dewi Langlet and Adèle Moncuquet.
+  By `Olivier Fauvarque <https://annuaire.ifremer.fr/cv/27100/>`_, `Dewi Langlet <https://annuaire.ifremer.fr/cv/30956/>`_ and `Adèle Moncuquet <https://github.com/Chtululu>`_.
 
 - ... (September 2025) Webdesign improvements
   By `Adèle Moncuquet <https://github.com/Chtululu>`_ and feedbacks from `Sébastien Hervé <https://www-iuem.univ-brest.fr/lemar/equipe/herve_sebastien/>`_.
